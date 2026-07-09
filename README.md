@@ -58,4 +58,4 @@
 
 - 感谢 [arcxingye](https://github.com/arcxingye) 开源的 EatKano 模板。
 - 感谢所有在网络上分享素材的漂泊者们。
-- 感谢库洛游戏创造了这个世界，让我们有岸可依。
+
